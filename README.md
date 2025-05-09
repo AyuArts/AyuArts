@@ -90,13 +90,6 @@ Tech stack: Python, AWS Lambda, S3, Pandas, HTTPX, Pydantic, Docker
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyuArts\&layout=compact\&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyuArts\&show_icons=true\&theme=tokyonight)
-
----
-
 ### 📚 Education & Certifications
 
 * **Python Pro** — Hillel IT School (2024 – 2025)
