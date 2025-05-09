@@ -97,6 +97,8 @@ Tech stack: Python, AWS Lambda, S3, Pandas, HTTPX, Pydantic, Docker
 
 ---
 
+![Codewars](https://www.codewars.com/users/AyuArts/badges/small)
+
 ### 📚 Education & Certifications
 
 * **Python Pro** — Hillel IT School (2024 – 2025)
