@@ -5,26 +5,46 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💼 About Me
 
-I'm a Python Backend Engineer with hands-on experience in designing scalable, modular systems for data automation and cloud deployment.  
-I built a robust ETL pipeline for Walmart API, transforming and loading data into Google Sheets and PostgreSQL using raw SQL queries.  
-Following **Clean Architecture** principles, I developed **reusable modules**, set up **Redis caching**, **CI/CD pipelines**, **Docker containers**, and **AWS Lambda** for serverless execution.  
-Also proficient in writing automated tests with 90%+ coverage using Pytest, Selenium, Playwright, and JUnit.
+I'm a **Python Backend Engineer** with hands-on experience in designing scalable, modular systems for data automation and cloud deployment.
+
+* 🛠️ Developed a robust **ETL pipeline** for automated extraction of **Walmart reports**, transforming and loading data into **Google Sheets** and a **PostgreSQL database** using raw SQL queries.
+* 🧱 Built the backend following **Clean Architecture principles**, ensuring clear separation between business logic and infrastructure for maintainability and testability.
+* 🔁 Created configurable and **reusable ETL modules**, enabling seamless integration of new data sources and workflows with minimal code changes.
+* ⚡ Implemented **Redis caching** and **asynchronous processing**, reducing API overhead and improving performance by **30%**.
+* 📦 Containerized the application with **Docker** and deployed it via **AWS Lambda**, achieving serverless, cost-efficient execution.
+* ✅ Achieved **90%+ test coverage** using **Pytest**, integrated into CI/CD pipelines to ensure continuous quality control.
+
+I'm also proficient in writing automated tests in **Python** and **Java**, covering **API**, **UI**, and **integration levels** using **Selenium**, **Playwright**, and **Allure reporting**.
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Featured Projects
 
-#### 🔄 [AWEGOO ETL Project](https://github.com/AyuArts/AWEGOO-ETL-Project)
-> **Modular ETL framework** for automated data extraction, transformation, and loading from Walmart and Google APIs.  
-> Powered by AWS Lambda, Redis, Docker, Google Sheets API, and SOLID design.
+#### 1. [AWEGOO ETL Project](https://github.com/AyuArts/AWEGOO-ETL-Project)
 
-**Key features:**
-- Clean separation of concerns via `domain`, `infra`, and `interface` layers
-- Auto-registration of components (`Flatteners`, `Transformers`, `Loaders`) via `__init_subclass__`
-- Plugin system: easily extend with S3, BigQuery, and custom formatters
-- Fully containerized and serverless-compatible architecture
+Modular and extensible ETL framework designed to extract reports from Walmart APIs, transform and clean data, and load it into Google Sheets or databases. Built on Clean Architecture, supports pluggable components like flatteners, loaders, and transformers. Dockerized and deployable on AWS Lambda.
+
+Tech stack: Python, FastAPI, Redis, PostgreSQL, Google Sheets API, Docker, AWS Lambda, Pytest
+
+#### 2. [OpenCart UI Test Automation](https://github.com/AyuArts/opencart_auto_tests)
+
+End-to-end test framework for the OpenCart e-commerce platform. Built using Selenium and JUnit 5 with Page Object Model architecture and Allure reporting integration. Covers sorting, dropdowns, currency switching, and product detail validation.
+
+Tech stack: Java, Selenium, JUnit 5, Allure, Maven
+
+#### 3. [API Automation Tests](https://github.com/AyuArts/API_automation_tests)
+
+Automation framework for validating REST APIs using Python and Pytest. Includes custom request handlers, reusable test utilities, and CI-ready structure. Focused on maintainability and structured assertions.
+
+Tech stack: Python, Pytest, Allure, Requests, CI/CD
+
+#### 4. [Amazon Ads Report Service](https://github.com/AyuArts/AmazonAdsReportService)
+
+Backend microservice for generating, storing, and retrieving Amazon Ads reports. Splits logic into two Lambda-compatible parts: report request creation and report download. Reads and stores metadata in AWS S3 and supports job status tracking.
+
+Tech stack: Python, AWS Lambda, S3, Pandas, HTTPX, Pydantic, Docker
 
 ---
 
@@ -45,9 +65,7 @@ Also proficient in writing automated tests with 90%+ coverage using Pytest, Sele
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
----
-
-#### 🤪 Testing & QA
+#### 🤖 Testing & QA
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
@@ -58,8 +76,6 @@ Also proficient in writing automated tests with 90%+ coverage using Pytest, Sele
 ![BDD](https://img.shields.io/badge/BDD-purple?style=for-the-badge)
 ![Test Design](https://img.shields.io/badge/Test%20Design-grey?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-red?style=for-the-badge)
-
----
 
 #### ⚙️ Tools & DevOps
 
@@ -72,31 +88,29 @@ Also proficient in writing automated tests with 90%+ coverage using Pytest, Sele
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-informational?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2F80ED?style=for-the-badge)
 
-
 ---
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyuArts&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyuArts&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyuArts\&layout=compact\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyuArts\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ### 📚 Education & Certifications
 
-- **Python Pro** — Hillel IT School (2024 – 2025)
-- Ongoing self-study and real-world project experience
+* **Python Pro** — Hillel IT School (2024 – 2025)
+* Ongoing self-study and real-world project experience
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: [aslyamov.arts@gmail.com](mailto:aslyamov.arts@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/artem-aslyamov](https://www.linkedin.com/in/artem-aslyamov/)  
-- 🧑‍💻 GitHub: [github.com/AyuArts](https://github.com/AyuArts)  
-- 📍 Vinnytsia, Ukraine  
+* 📧 Email: [aslyamov.arts@gmail.com](mailto:aslyamov.arts@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/artem-aslyamov](https://www.linkedin.com/in/artem-aslyamov/)
+* 🧑‍💻 GitHub: [github.com/AyuArts](https://github.com/AyuArts)
+* 📍 Vinnytsia, Ukraine
 
 ---
 
-> _“Clean architecture and test coverage aren’t luxuries — they’re necessities.”_
-
+> *“Clean architecture and test coverage aren’t luxuries — they’re necessities.”*
