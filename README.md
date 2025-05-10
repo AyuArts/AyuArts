@@ -101,7 +101,6 @@ Tech stack: Python, AWS Lambda, S3, Pandas, HTTPX, Pydantic, Docker
 
 * 📧 Email: [aslyamov.arts@gmail.com](mailto:aslyamov.arts@gmail.com)
 * 💼 LinkedIn: [linkedin.com/in/artem-aslyamov](https://www.linkedin.com/in/artem-aslyamov/)
-* 🧑‍💻 GitHub: [github.com/AyuArts](https://github.com/AyuArts)
 * 📍 Vinnytsia, Ukraine
 
 ---
