@@ -26,25 +26,21 @@ I'm also proficient in writing automated tests in **Python** and **Java**, cover
 
 Modular and extensible ETL framework designed to extract reports from Walmart APIs, transform and clean data, and load it into Google Sheets or databases. Built on Clean Architecture, supports pluggable components like flatteners, loaders, and transformers. Dockerized and deployable on AWS Lambda.
 
-Tech stack: Python, FastAPI, Redis, PostgreSQL, Google Sheets API, Docker, AWS Lambda, Pytest
 
 #### 2. [OpenCart UI Test Automation](https://github.com/AyuArts/opencart_auto_tests)
 
 End-to-end test framework for the OpenCart e-commerce platform. Built using Selenium and JUnit 5 with Page Object Model architecture and Allure reporting integration. Covers sorting, dropdowns, currency switching, and product detail validation.
 
-Tech stack: Java, Selenium, JUnit 5, Allure, Maven
 
 #### 3. [API Automation Tests](https://github.com/AyuArts/API_automation_tests)
 
 Automation framework for validating REST APIs using Python and Pytest. Includes custom request handlers, reusable test utilities, and CI-ready structure. Focused on maintainability and structured assertions.
 
-Tech stack: Python, Pytest, Allure, Requests, CI/CD
 
 #### 4. [Amazon Ads Report Service](https://github.com/AyuArts/AmazonAdsReportService)
 
 Backend microservice for generating, storing, and retrieving Amazon Ads reports. Splits logic into two Lambda-compatible parts: report request creation and report download. Reads and stores metadata in AWS S3 and supports job status tracking.
 
-Tech stack: Python, AWS Lambda, S3, Pandas, HTTPX, Pydantic, Docker
 
 ---
 
