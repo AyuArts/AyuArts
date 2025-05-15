@@ -24,22 +24,24 @@ I'm also proficient in writing automated tests in **Python** and **Java**, cover
 
 #### 1. [AWEGOO ETL Project](https://github.com/AyuArts/AWEGOO-ETL-Project)
 
-Modular and extensible ETL framework designed to extract reports from Walmart APIs, transform and clean data, and load it into Google Sheets or databases. Built on Clean Architecture, supports pluggable components like flatteners, loaders, and transformers. Dockerized and deployable on AWS Lambda.
+This repository contains a modular, extensible ETL (Extract, Transform, Load) framework built for automating complex data workflows. It integrates directly with Walmart APIs and Google Sheets, enabling streamlined collection, transformation, and export of structured business data.
+
+The project emphasizes code reusability, configuration over hardcoding, and clean architecture principles to ensure scalability across multiple pipelines and data sources.
 
 
 #### 2. [OpenCart UI Test Automation](https://github.com/AyuArts/opencart_auto_tests)
 
-End-to-end test framework for the OpenCart e-commerce platform. Built using Selenium and JUnit 5 with Page Object Model architecture and Allure reporting integration. Covers sorting, dropdowns, currency switching, and product detail validation.
+End‑to‑end regression suite for the OpenCart demo store built with Python + Selenium using the Page Object Model pattern.
 
 
 #### 3. [API Automation Tests](https://github.com/AyuArts/API_automation_tests)
 
-Automation framework for validating REST APIs using Python and Pytest. Includes custom request handlers, reusable test utilities, and CI-ready structure. Focused on maintainability and structured assertions.
+End‑to‑end regression suite for the GoRest public API, built with Python 3.11, Pytest and Playwright’s * *APIRequestContext**.
 
 
 #### 4. [Amazon Ads Report Service](https://github.com/AyuArts/AmazonAdsReportService)
 
-Backend microservice for generating, storing, and retrieving Amazon Ads reports. Splits logic into two Lambda-compatible parts: report request creation and report download. Reads and stores metadata in AWS S3 and supports job status tracking.
+This service automates the creation and downloading of Amazon Advertising API reports (SPONSORED_PRODUCTS). It's designed following SOLID principles and Clean Architecture, enabling modularity, testability, and scalability.
 
 
 ---
